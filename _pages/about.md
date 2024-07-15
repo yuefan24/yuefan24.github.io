@@ -22,8 +22,11 @@ I am a PhD student from the School of Computer and Information Technology at <a 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
+- *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension
+- *2021.12*: &nbsp;🎉🎉 One paper is accepted by Semantic Web 2022.
+- *2021.12*: &nbsp;🎉🎉 Achieved second place in the CAIL2021 Reading Comprehension Challenge.
+- *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 📝 Publications 
 
