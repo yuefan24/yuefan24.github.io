@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student from the School of Computer and Information Technology at <a href='https://www.sxu.edu.cn/'>Shanxi University <strong><span id='total_cit'>260000+</span></strong></a>. My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Semantic Web, Journal of Chinese Information Processing, and Big Data. Additionally, I have participated in evaluations related to explainable natural language processing and <a href='https://hfl-rc.github.io/cmrc2022/results/'>have won the national second prize <strong><span id='total_cit'>260000+</span></strong></a>.
+I am a PhD student from the School of Computer and Information Technology at <a href='https://www.sxu.edu.cn/'>Shanxi University <strong><span id='total_cit'></span></strong></a>. My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Semantic Web, Journal of Chinese Information Processing, and Big Data. Additionally, I have participated in evaluations related to explainable natural language processing and <a href='https://hfl-rc.github.io/cmrc2022/results/'>have won the national second prize <strong><span id='total_cit'></span></strong></a>.
 
 
 
