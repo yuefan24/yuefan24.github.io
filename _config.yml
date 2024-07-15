@@ -9,6 +9,7 @@
 title                    : "Yue Fan's Personal Homepage"
 description              : &description "personal description"
 repository               : "RayeRen/acad-homepage.github.io"
+url                      : "https://davidfan1224.github.io/yuefan/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
