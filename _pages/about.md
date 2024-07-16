@@ -53,9 +53,7 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2022.10*, We shared our tutorial as runners-up at the [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/) conference. \| [\[video\]](https://github.com/)
+- *2022.10*, We shared our tutorial as runners-up at the [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/) conference. \| [\[Tutorial\]]([https://github.com/](https://hfl-rc.github.io/cmrc2022/program/))
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
