@@ -36,8 +36,10 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* [The 5th Workshop on Chinese Machine Reading Comprehension (CMRC2022)](https://hfl-rc.github.io/cmrc2022/results/) **2nd Prize**, 2022.            
+  **Yue Fan**, Hu Zhang, Ru Li.
+- *2021.12* [Challenge of AI in Law (CAIL 2021) Reading Comprehension Track](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021) **2nd Prize**, 2021.                    
+  **Yue Fan**, Yujie Wang, Guangjun Zhang, Hu Zhang
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
