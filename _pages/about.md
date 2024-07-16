@@ -56,4 +56,4 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 - *2022.10*, We shared our tutorial as runners-up at the [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/) conference. \| [\[Tutorial\]](https://hfl-rc.github.io/cmrc2022/program/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.12 - 2020.01*, [Tianjin](https://davidfan1224.github.io/yuefan/), China.
