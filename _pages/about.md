@@ -33,7 +33,6 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.      
 Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
