@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student from the School of Computer and Information Technology at <a href='https://www.sxu.edu.cn/'>Shanxi University <strong><span id='total_cit'></span></strong></a>. My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Semantic Web, Journal of Chinese Information Processing, and Big Data. Additionally, I have participated in evaluations related to explainable natural language processing and <a href='https://hfl-rc.github.io/cmrc2022/results/'>have won the national second prize <strong><span id='total_cit'></span></strong></a>.
+I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/). My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Semantic Web, Journal of Chinese Information Processing, and Big Data. Additionally, I have participated in evaluations related to explainable natural language processing and <a href='https://hfl-rc.github.io/cmrc2022/results/'>have won the national second prize <strong><span id='total_cit'></span></strong></a>.
 
 
 
@@ -35,10 +35,12 @@ I am a PhD student from the School of Computer and Information Technology at <a 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.      
+Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+%- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
