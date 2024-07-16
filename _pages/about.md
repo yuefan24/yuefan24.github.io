@@ -40,6 +40,8 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
   **Yue Fan**, Hu Zhang, Ru Li.
 - *2021.12* [Challenge of AI in Law (CAIL 2021) Reading Comprehension Track](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021) **2nd Prize**, 2021.                    
   **Yue Fan**, Yujie Wang, Guangjun Zhang, Hu Zhang
+- *2020.12* [Challenge of AI in Law (CAIL 2020) Reading Comprehension Track](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021) **3nd Prize**, 2020.                    
+  Yujie Wang, Guangjun Zhang, **Yue Fan**, Zhen Zhang, Jiayu Guo, Hu Zhang
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
