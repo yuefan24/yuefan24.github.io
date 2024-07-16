@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yue Fan's Personal Homepage"
-description              : &description "personal description"
+description              : &description "I am a Ph.D. student at the School of Computer and Information Technology, Shanxi University."
 repository               : "RayeRen/acad-homepage.github.io"
 url                      : "https://davidfan1224.github.io/yuefan/"
 google_scholar_stats_use_cdn : true
