@@ -37,6 +37,8 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 # 🎖 Honors and Awards
+- *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
+- *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
 - *2022.10* [The 5th Workshop on Chinese Machine Reading Comprehension (CMRC2022)](https://hfl-rc.github.io/cmrc2022/results/) **2nd Prize**, 2022.            
   **Yue Fan**, Hu Zhang, Ru Li.
 - *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
