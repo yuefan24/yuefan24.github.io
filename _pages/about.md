@@ -21,6 +21,7 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by Semantic Web 2022.
@@ -31,6 +32,9 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang
+
+- [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
+Yuanlong Wang, Jing Wang, **Yue Fan**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li.
 
 - [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). **Semantic Web, 2022**.      
 Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
