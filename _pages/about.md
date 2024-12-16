@@ -21,6 +21,8 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by Information Sciences.
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension
