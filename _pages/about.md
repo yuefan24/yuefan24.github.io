@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), , under the supervision of Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm). 
+I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), under the supervision of Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm). 
 
 My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Information Sciences, COLING, Semantic Web, Journal of Chinese Information Processing, and Big Data. I have been granted one Chinese invention patent. Additionally, I participated in several explainable natural language processing competition, where I won the [national second prize](https://hfl-rc.github.io/cmrc2022/results/) and achieved [first place on the leaderboard](https://aistudio.baidu.com/competition/detail/447/0/leaderboard). 
 
@@ -28,7 +28,7 @@ My research interests focus on natural language processing, explainable question
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension.
-- *2022.10*: &nbsp;🎉🎉 One paper is accepted by Journal of Chinese Information Processing.
+- *2022.04*: &nbsp;🎉🎉 One paper is accepted by Journal of Chinese Information Processing.
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by Semantic Web 2022.
 - *2021.12*: &nbsp;🎉🎉 Achieved second place in the CAIL2021 Reading Comprehension Challenge.
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
@@ -41,7 +41,7 @@ My research interests focus on natural language processing, explainable question
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations]. **COLING, 2025**.      
+- [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations]. **COLING 2025**.      
 Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
 
 - [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
