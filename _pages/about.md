@@ -35,22 +35,23 @@ My research interests focus on natural language processing, explainable question
 
 # 📝 Publications 
 
-- [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism]. **Information Sciences, 2025**.  
-**Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang.
+- **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang. Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism. **Information Sciences, 2025**.  
 
-- [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
-**Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations]. **COLING 2025**.      
-Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
+- **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang. [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 
-- [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
-Yuanlong Wang, Jing Wang, **Yue Fan**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li.
 
-- [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). **Semantic Web, 2022**.      
-Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
+- Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang. Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations. **COLING 2025**.      
 
-# 🎖 Honors and Awards
+
+- Yuanlong Wang, Jing Wang, **Yue Fan**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li. [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
+
+
+- Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**. [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). **Semantic Web, 2022**.      
+
+
+
+# 🏅 Honors and Awards
 - *2024.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06*, The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
 - *2022.10*, [The 5th Workshop on Chinese Machine Reading Comprehension (CMRC2022)](https://hfl-rc.github.io/cmrc2022/results/) **2nd Prize**, 2022.            
@@ -62,12 +63,15 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 - *2020.12*, [Challenge of AI in Law (CAIL 2020) Reading Comprehension Track](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021) **3nd Prize**, 2020.                    
   Yujie Wang, Guangjun Zhang, **Yue Fan**, Zhen Zhang, Jiayu Guo, Hu Zhang
 
-# 📖 Educations
+# 💬 Invited Talks
+- *2024.08*, The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Bangkok, Thailand, Poster.
+- *2022.10*, We shared our tutorial as runners-up at the [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/) conference. \| [\[Tutorial\]](https://hfl-rc.github.io/cmrc2022/program/)
+
+# 🎓 Educations
 - *2022.09 - now*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 
-# 💬 Invited Talks
-- *2022.10*, We shared our tutorial as runners-up at the [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/) conference. \| [\[Tutorial\]](https://hfl-rc.github.io/cmrc2022/program/)
 
-# 💻 Internships
+
+# 🏭 Internships
 - *2019.12 - 2020.01*, [Tianjin](https://davidfan1224.github.io/yuefan/), China.
