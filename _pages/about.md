@@ -35,7 +35,7 @@ My research interests focus on natural language processing, explainable question
 
 # 📝 Publications 
 
-- **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang. Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism. **Information Sciences, 2025**.  
+- **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang. [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **Information Sciences, 2025**.  
 
 
 - **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang. [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
