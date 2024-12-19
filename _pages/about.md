@@ -41,14 +41,14 @@ My research interests focus on natural language processing, explainable question
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang. Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations. **COLING 2025**.      
+- Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations. **COLING 2025**.      
+Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
 
+- [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
+Yuanlong Wang, Jing Wang, **Yue Fan**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li.
 
-- Yuanlong Wang, Jing Wang, **Yue Fan**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li. [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
-
-
-- Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**. [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). **Semantic Web, 2022**.      
-
+- [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). **Semantic Web, 2022**.      
+Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 
 # 🏅 Honors and Awards
