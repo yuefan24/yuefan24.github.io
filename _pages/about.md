@@ -41,7 +41,7 @@ My research interests focus on natural language processing, explainable question
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations(https://aclanthology.org/2025.coling-main.495/). **COLING 2025**.      
+- [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations](https://aclanthology.org/2025.coling-main.495/). **COLING 2025**.      
 Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
 
 - [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **Information Processing and Management, 2024**.      
