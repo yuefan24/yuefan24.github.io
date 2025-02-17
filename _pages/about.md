@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), co-supervised by Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm).  
 
 My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Information Sciences, COLING, Semantic Web, Journal of Chinese Information Processing, and Big Data. I have been granted one Chinese invention patent. Additionally, I participated in several explainable natural language processing competition, where I won the [national second prize](https://hfl-rc.github.io/cmrc2022/results/) and achieved [first place on the leaderboard](https://aistudio.baidu.com/competition/detail/447/0/leaderboard).  
-%![](https://komarev.com/ghpvc/?username=davidfan1224&style=plastic&color=red)
+{%![](https://komarev.com/ghpvc/?username=davidfan1224&style=plastic&color=red)%}
 
 
 # 🔥 News
