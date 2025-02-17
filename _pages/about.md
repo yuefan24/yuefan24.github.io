@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-![](https://komarev.com/ghpvc/?username=davidfan1224&style=flat-square)
-I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), co-supervised by Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm). 
+
+I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), co-supervised by Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm).  ![](https://komarev.com/ghpvc/?username=davidfan1224/yuefan&style=flat-square)
 
 My research interests focus on natural language processing, explainable question answering, and logical reasoning. I have published academic papers in international conferences and journals such as ACL, Information Sciences, COLING, Semantic Web, Journal of Chinese Information Processing, and Big Data. I have been granted one Chinese invention patent. Additionally, I participated in several explainable natural language processing competition, where I won the [national second prize](https://hfl-rc.github.io/cmrc2022/results/) and achieved [first place on the leaderboard](https://aistudio.baidu.com/competition/detail/447/0/leaderboard). 
 
