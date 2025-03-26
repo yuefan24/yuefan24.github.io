@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yue Fan's Personal Homepage"
 description              : &description "I am a Ph.D. student."
-repository               : "https://yuefan24.github.io/"
+repository               : "https://github.com/yuefan24"
 url                      : "https://yuefan24.github.io/"
 google_scholar_stats_use_cdn : true
 
