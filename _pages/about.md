@@ -54,6 +54,8 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 
 # 🏅 Honors and Awards
+- *2025.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
+- *2025.04*, Outstanding Graduate Student, Shanxi University, in 2025.
 - *2024.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06*, The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
 - *2022.10*, [The 5th Workshop on Chinese Machine Reading Comprehension (CMRC2022)](https://hfl-rc.github.io/cmrc2022/results/) **2nd Prize**, 2022.            
