@@ -39,12 +39,20 @@ Additionally, I participated in several explainable question answering competiti
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 📝 Publications 
-
+- [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **Information Processing and Management, 2026**.  
+**Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
+  
 - [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **Information Sciences, 2025**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang.
 
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
+
+- [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction]. **AAAI 2026**.
+Guangjun Zhang, Hu zhang, Yazhou Han, **Yue Fan**, Yuhang Shao, Hongye Tan, Ru Li 
+
+- [Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification](https://aclanthology.org/2025.emnlp-main.616/). **EMNLP 2025**.      
+Ya Su, Hu Zhang, **Yue Fan**, Guangjun Zhang, Yujie Wang, Ru Li, Hongye Tan.
 
 - [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations](https://aclanthology.org/2025.coling-main.495/). **COLING 2025**.      
 Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
