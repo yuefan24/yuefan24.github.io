@@ -39,7 +39,7 @@ Additionally, I participated in several explainable question answering competiti
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 📝 Publications 
-- SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering. **Information Processing and Management, 2026**.  
+- [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **Information Processing and Management, 2026**.  
 **Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
   
 - [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **Information Sciences, 2025**.  
