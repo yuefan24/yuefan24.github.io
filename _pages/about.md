@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), co-supervised by Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm).  
 
-My research interests focus on natural language processing, explainable question answering, and LLM logical reasoning. I have published academic papers in international conferences and journals such as _ACL_, _AAAI_, _EMNLP_, _COLING_, _Information Processing & Management_, _Information Sciences_ and _Semantic Web_. I have been granted one Chinese invention patent. 
+My research interests focus on natural language processing, explainable question answering, large language model (LLM) logical reasoning, and neuro-symbolic reasoning. I have published academic papers in international conferences and journals such as _ACL_, _AAAI_, _EMNLP_, _COLING_, _Information Processing and Management_, _Information Sciences_ and _Semantic Web_. I have been granted one Chinese invention patent. 
 
 Additionally, I participated in several explainable question answering competition and received several awards, including the 3rd national prize in [CAIL 2020](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2020), the 2nd national prize in [CAIL 2021](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021), the 2nd national prize in [CMRC 2022](https://hfl-rc.github.io/cmrc2022/results/), and the 1st place in the [Baidu Reading Comprehension Interpretability Evaluation Leaderboard](https://aistudio.baidu.com/competition/detail/447/0/leaderboard) (both Chinese and English).
 
@@ -38,7 +38,7 @@ Additionally, I participated in several explainable question answering competiti
 - *2021.12*: &nbsp;🎉🎉 Achieved second place in the CAIL2021 Reading Comprehension Challenge.
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
-# 📝 Publications 
+# 🚀 Publications 
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **Information Processing and Management, 2026**.  
 **Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
   
@@ -48,7 +48,7 @@ Additionally, I participated in several explainable question answering competiti
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction. **AAAI 2026**.  
+- [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **AAAI 2026**.  
 Guangjun Zhang, Hu zhang, Yazhou Han, **Yue Fan**, Yuhang Shao, Hongye Tan, Ru Li 
 
 - [Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification](https://aclanthology.org/2025.emnlp-main.616/). **EMNLP 2025**.      
@@ -88,7 +88,7 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 
 
-# 🏭 Internships
+# 🧩 Internships
 - *2019.12 - 2020.01*, [Tianjin](https://davidfan1224.github.io/yuefan/), China.
 
 <a href="https://info.flagcounter.com/xRHr"><img src="https://s01.flagcounter.com/count2/xRHr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_15/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
