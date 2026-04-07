@@ -25,6 +25,8 @@ Additionally, I participated in several explainable question answering competiti
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper on Logical Reasoning is accepted by ACL 2026.
+- *2026.04*: &nbsp;🎉🎉 One paper on Document-Level Event Causality Identification is accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2025.
