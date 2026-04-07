@@ -27,13 +27,13 @@ Additionally, I participated in several explainable question answering competiti
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper on Logical Reasoning is accepted by ACL 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper on Document-Level Event Causality Identification is accepted by ACL 2026.
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management.
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by Information Sciences.
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by COLING 2025.
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management.
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
+- *2026.01*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by Information Processing and Management.
+- *2025.11*: &nbsp;🎉🎉 One paper on Zero-shot Document-level Event Arguments Extraction is accepted by AAAI 2026.
+- *2025.08*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
+- *2024.12*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by Information Sciences.
+- *2024.11*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by COLING 2025.
+- *2024.09*: &nbsp;🎉🎉 One paper on Zero-shot Learning is accepted by Information Processing and Management.
+- *2024.05*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by ACL 2024.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension.
 - *2022.04*: &nbsp;🎉🎉 One paper is accepted by Journal of Chinese Information Processing.
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by Semantic Web 2022.
@@ -41,6 +41,9 @@ Additionally, I participated in several explainable question answering competiti
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 🚀 Publications 
+- [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration]. **ACL 2026**.  
+**Yue Fan**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
+  
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **Information Processing and Management, 2026**.  
 **Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
   
@@ -49,6 +52,9 @@ Additionally, I participated in several explainable question answering competiti
 
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
+
+- [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency]. **ACL 2026**.
+Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **Yue Fan**, Shike Li, Ru Li, Hongye Tan
 
 - [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **AAAI 2026**.  
 Guangjun Zhang, Hu zhang, Yazhou Han, **Yue Fan**, Yuhang Shao, Hongye Tan, Ru Li 
