@@ -41,7 +41,7 @@ Additionally, I participated in several explainable question answering competiti
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 🚀 Publications 
-- [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration]. **ACL 2026**.  
+- Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **ACL 2026**.  
 **Yue Fan**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **Information Processing and Management, 2026**.  
@@ -53,7 +53,7 @@ Additionally, I participated in several explainable question answering competiti
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency]. **ACL 2026**.
+- Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency. **ACL 2026**.    
 Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **Yue Fan**, Shike Li, Ru Li, Hongye Tan
 
 - [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **AAAI 2026**.  
