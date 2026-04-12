@@ -42,7 +42,7 @@ Additionally, I participated in several explainable question answering competiti
 
 # 🚀 Publications 
 - Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **ACL 2026**.  
-**Yue Fan**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
+**<span style="color:red;">Yue Fan</span>**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **Information Processing and Management, 2026**.  
 **Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
@@ -94,7 +94,9 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 - *2022.09 - now*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 
-
+# 💻 Academic Services
+- *Reviewer*: ACL, EMNLP, 《Expert Systems with Applications》
+- *Volunteer*: CCL 2024, YSSNLP 2022
 
 # 🧩 Internships
 - *2019.12 - 2020.01*, [Tianjin](https://davidfan1224.github.io/yuefan/), China.
