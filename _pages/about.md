@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), co-supervised by Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm).  
 
-My research interests focus on natural language processing, explainable question answering, large language model (LLM) logical reasoning, and neuro-symbolic reasoning. I have published academic papers in international conferences and journals such as _ACL_, _AAAI_, _EMNLP_, _COLING_, 《_Information Processing and Management_》, 《_Information Sciences_》 and 《_Semantic Web_》. I have been granted one Chinese invention patent. 
+My research interests focus on natural language processing, explainable question answering, large language model (LLM) logical reasoning, and neuro-symbolic reasoning. I have published academic papers in international conferences and journals such as _ACL_, _AAAI_, _EMNLP_, _COLING_, _Information Processing and Management_, _Information Sciences_ and _Semantic Web_. I have been granted one Chinese invention patent. 
 
 Additionally, I participated in several explainable question answering competition and received several awards, including the 3rd national prize in [CAIL 2020](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2020), the 2nd national prize in [CAIL 2021](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021), the 2nd national prize in [CMRC 2022](https://hfl-rc.github.io/cmrc2022/results/), and the 1st place in the [Baidu Reading Comprehension Interpretability Evaluation Leaderboard](https://aistudio.baidu.com/competition/detail/447/0/leaderboard) (both Chinese and English).
 
@@ -27,16 +27,16 @@ Additionally, I participated in several explainable question answering competiti
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper on Logical Reasoning is accepted by ACL 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper on Document-Level Event Causality Identification is accepted by ACL 2026.
-- *2026.01*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by 《Information Processing and Management》.
+- *2026.01*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by _Information Processing and Management_.
 - *2025.11*: &nbsp;🎉🎉 One paper on Zero-shot Document-level Event Arguments Extraction is accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by 《Information Sciences》.
+- *2024.12*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by _Information Sciences_.
 - *2024.11*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by COLING 2025.
-- *2024.09*: &nbsp;🎉🎉 One paper on Zero-shot Learning is accepted by 《Information Processing and Management》.
+- *2024.09*: &nbsp;🎉🎉 One paper on Zero-shot Learning is accepted by _Information Processing and Management_.
 - *2024.05*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by ACL 2024.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension.
-- *2022.04*: &nbsp;🎉🎉 One paper is accepted by 《Journal of Chinese Information Processing》.
-- *2021.12*: &nbsp;🎉🎉 One paper is accepted by 《Semantic Web》.
+- *2022.04*: &nbsp;🎉🎉 One paper is accepted by _Journal of Chinese Information Processing_.
+- *2021.12*: &nbsp;🎉🎉 One paper is accepted by _Semantic Web_.
 - *2021.12*: &nbsp;🎉🎉 Achieved second place in the CAIL2021 Reading Comprehension Challenge.
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
