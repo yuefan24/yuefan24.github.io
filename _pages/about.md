@@ -42,7 +42,7 @@ Additionally, I participated in several explainable question answering competiti
 
 # 🚀 Publications 
 - Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **ACL 2026**.  
-<span style="color: red !important;">Yue Fan</span>, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
+**Yue Fan**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **Information Processing and Management, 2026**.  
 **Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
@@ -87,11 +87,12 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
   Yujie Wang, Guangjun Zhang, **Yue Fan**, Zhen Zhang, Jiayu Guo, Hu Zhang
 
 # 💬 Invited Talks
+- *2025.11*, The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Suzhou, China, Poster.
 - *2024.08*, The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Bangkok, Thailand, Poster.
 - *2022.10*, We shared our tutorial as runners-up at the [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/) conference. \| [\[Tutorial\]](https://hfl-rc.github.io/cmrc2022/program/)
 
 # 🎓 Educations
-- *2022.09 - now*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2022.09 - 2026.06*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 
 # 💻 Academic Services
