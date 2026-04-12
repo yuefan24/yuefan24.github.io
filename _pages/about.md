@@ -27,16 +27,16 @@ Additionally, I participated in several explainable question answering competiti
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper on Logical Reasoning is accepted by ACL 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper on Document-Level Event Causality Identification is accepted by ACL 2026.
-- *2026.01*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by Information Processing and Management.
+- *2026.01*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by 《Information Processing and Management》.
 - *2025.11*: &nbsp;🎉🎉 One paper on Zero-shot Document-level Event Arguments Extraction is accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by Information Sciences.
+- *2024.12*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by 《Information Sciences》.
 - *2024.11*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by COLING 2025.
-- *2024.09*: &nbsp;🎉🎉 One paper on Zero-shot Learning is accepted by Information Processing and Management.
+- *2024.09*: &nbsp;🎉🎉 One paper on Zero-shot Learning is accepted by 《Information Processing and Management》.
 - *2024.05*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by ACL 2024.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension.
 - *2022.04*: &nbsp;🎉🎉 One paper is accepted by Journal of Chinese Information Processing.
-- *2021.12*: &nbsp;🎉🎉 One paper is accepted by Semantic Web 2022.
+- *2021.12*: &nbsp;🎉🎉 One paper is accepted by 《Semantic Web》.
 - *2021.12*: &nbsp;🎉🎉 Achieved second place in the CAIL2021 Reading Comprehension Challenge.
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
