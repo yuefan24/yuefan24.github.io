@@ -25,15 +25,15 @@ Additionally, I participated in several explainable question answering competiti
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper on Logical Reasoning is accepted by ACL 2026.
-- *2026.04*: &nbsp;🎉🎉 One paper on Document-Level Event Causality Identification is accepted by ACL 2026.
+- *2026.04*: &nbsp;🎉🎉 One paper on Logical Reasoning is accepted by _ACL 2026_.
+- *2026.04*: &nbsp;🎉🎉 One paper on Document-Level Event Causality Identification is accepted by _ACL 2026_.
 - *2026.01*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by _Information Processing and Management_.
-- *2025.11*: &nbsp;🎉🎉 One paper on Zero-shot Document-level Event Arguments Extraction is accepted by AAAI 2026.
-- *2025.08*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
+- *2025.11*: &nbsp;🎉🎉 One paper on Zero-shot Document-level Event Arguments Extraction is accepted by _AAAI 2026_.
+- *2025.08*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by _EMNLP 2025_.
 - *2024.12*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by _Information Sciences_.
-- *2024.11*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by COLING 2025.
+- *2024.11*: &nbsp;🎉🎉 One paper on Event Causality Identification is accepted by _COLING 2025_.
 - *2024.09*: &nbsp;🎉🎉 One paper on Zero-shot Learning is accepted by _Information Processing and Management_.
-- *2024.05*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by ACL 2024.
+- *2024.05*: &nbsp;🎉🎉 One paper on Explainable Question Answering is accepted by _ACL 2024_.
 - *2022.10*: &nbsp;🎉🎉 Achieved second place at the 5th Workshop on Chinese Machine Reading Comprehension.
 - *2022.04*: &nbsp;🎉🎉 One paper is accepted by _Journal of Chinese Information Processing_.
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by _Semantic Web_.
@@ -41,7 +41,7 @@ Additionally, I participated in several explainable question answering competiti
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 🚀 Publications 
-- Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **ACL 2026**.  
+- Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **_ACL 2026_**.  
 **Yue Fan**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **_Information Processing and Management_, 2026**.  
@@ -49,20 +49,20 @@ Additionally, I participated in several explainable question answering competiti
   
 - [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **_Information Sciences_, 2025**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang.
-
-- [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **ACL 2024**.  
+_
+- [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **_ACL 2024_**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency. **ACL 2026**.    
+- Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency. **_ACL 2026_**.    
 Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **Yue Fan**, Shike Li, Ru Li, Hongye Tan
 
-- [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **AAAI 2026**.  
+- [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **_AAAI 2026_**.  
 Guangjun Zhang, Hu zhang, Yazhou Han, **Yue Fan**, Yuhang Shao, Hongye Tan, Ru Li 
 
-- [Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification](https://aclanthology.org/2025.emnlp-main.616/). **EMNLP 2025**.      
+- [Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification](https://aclanthology.org/2025.emnlp-main.616/). **_EMNLP 2025_**.      
 Ya Su, Hu Zhang, **Yue Fan**, Guangjun Zhang, Yujie Wang, Ru Li, Hongye Tan.
 
-- [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations](https://aclanthology.org/2025.coling-main.495/). **COLING 2025**.      
+- [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations](https://aclanthology.org/2025.coling-main.495/). **_COLING 2025_**.      
 Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
 
 - [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **_Information Processing and Management_, 2024**.      
