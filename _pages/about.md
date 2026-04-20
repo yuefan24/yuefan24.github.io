@@ -49,7 +49,7 @@ Additionally, I participated in several explainable question answering competiti
   
 - [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **_Information Sciences_, 2025**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang.
-_
+
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **_ACL 2024_**.  
 **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
@@ -73,6 +73,7 @@ Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 
 # 🏅 Honors and Awards
+- *2026.04*, Outstanding Graduate Student, Shanxi University, in 2026.
 - *2025.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2025.04*, Outstanding Graduate Student, Shanxi University, in 2025.
 - *2024.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
