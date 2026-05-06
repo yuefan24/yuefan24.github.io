@@ -42,7 +42,7 @@ Additionally, I participated in several explainable question answering competiti
 
 # 🚀 Publications 
 - Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **_ACL 2026_**.  
-**Yue Fan**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
+**<span style="color:red;">Yue Fan</span>**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **_Information Processing and Management_, 2026**.  
 **Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
