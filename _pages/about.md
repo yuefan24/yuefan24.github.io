@@ -46,31 +46,31 @@ Additionally, I participated in several explainable question answering competiti
 **<span style="color:red;">Yue Fan</span>**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **_Information Processing and Management_, 2026**.  
-**Yue Fan**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
+**<span style="color:red;">Yue Fan</span>**, Hu zhang, Ru Li, Guangjun Zhang, YuJie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang.
   
 - [Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism](https://www.sciencedirect.com/science/article/pii/S0020025524016773?via%3Dihub). **_Information Sciences_, 2025**.  
-**Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang.
+**<span style="color:red;">Yue Fan</span>**, Hu zhang, Ru Li, YuJie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang.
 
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **_ACL 2024_**.  
-**Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
+**<span style="color:red;">Yue Fan</span>**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
 - Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency. **_ACL 2026_**.    
-Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **Yue Fan**, Shike Li, Ru Li, Hongye Tan
+Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **<span style="color:red;">Yue Fan</span>**, Shike Li, Ru Li, Hongye Tan
 
 - [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **_AAAI 2026_**.  
-Guangjun Zhang, Hu zhang, Yazhou Han, **Yue Fan**, Yuhang Shao, Hongye Tan, Ru Li 
+Guangjun Zhang, Hu zhang, Yazhou Han, **<span style="color:red;">Yue Fan</span>**, Yuhang Shao, Hongye Tan, Ru Li 
 
 - [Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification](https://aclanthology.org/2025.emnlp-main.616/). **_EMNLP 2025_**.      
-Ya Su, Hu Zhang, **Yue Fan**, Guangjun Zhang, Yujie Wang, Ru Li, Hongye Tan.
+Ya Su, Hu Zhang, **<span style="color:red;">Yue Fan</span>**, Guangjun Zhang, Yujie Wang, Ru Li, Hongye Tan.
 
 - [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations](https://aclanthology.org/2025.coling-main.495/). **_COLING 2025_**.      
-Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **Yue Fan**, Ru Li, Yuanlong Wang.
+Ya Su, Hu Zhang, Guangjun Zhang, Yujie Wang, **<span style="color:red;">Yue Fan</span>**, Ru Li, Yuanlong Wang.
 
 - [Multi-granularity contrastive zero-shot learning model based on attribute decomposition](https://www.sciencedirect.com/science/article/pii/S0306457324002577). **_Information Processing and Management_, 2024**.      
-Yuanlong Wang, Jing Wang, **Yue Fan**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li.
+Yuanlong Wang, Jing Wang, **<span style="color:red;">Yue Fan</span>**, Qinghua Chai, Hu Zhang, Xiaoli Li, Ru Li.
 
 - [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). **_Semantic Web_, 2022**.      
-Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
+Hu Zhang, Jingjing Zhou, Ru Li, **<span style="color:red;">Yue Fan</span>**.
 
 
 # 🏅 Honors and Awards
