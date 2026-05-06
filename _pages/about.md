@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Welcome!
 I am a PhD student from the School of Computer and Information Technology at [Shanxi University](https://www.sxu.edu.cn/), co-supervised by Prof. [Ru Li](http://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and Prof. [Hu Zhang](http://cs.sxu.edu.cn/faculty/professor/3367/index.htm).  
 
 My research interests focus on natural language processing, explainable question answering, large language model (LLM) logical reasoning, and neuro-symbolic reasoning. I have published academic papers in international conferences and journals such as _ACL_, _AAAI_, _EMNLP_, _COLING_, _Information Processing and Management_, _Information Sciences_ and _Semantic Web_. I have been granted one Chinese invention patent. 
