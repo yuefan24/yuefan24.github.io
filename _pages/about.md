@@ -54,6 +54,9 @@ Additionally, I participated in several explainable question answering competiti
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **_ACL 2024_**.  
 **<span style="color:red;">Yue Fan</span>**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
+- [Multi-span Machine Reading Comprehension Based on Multi-task Joint Learning](http://jcip.cipsc.org.cn/article/id/zwxxxb_3820). **_Journal of Chinese Information Processing_, 2024**.      
+Hu Zhang, **<span style="color:red;">Yue Fan</span>**, Ru Li.
+
 - [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://aclanthology.org/2026.acl-long.871/). **_ACL 2026_**.    
 Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **<span style="color:red;">Yue Fan</span>**, Shike Li, Ru Li, Hongye Tan
 
