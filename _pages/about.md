@@ -78,6 +78,7 @@ Hu Zhang, Jingjing Zhou, Ru Li, **<span style="color:red;">Yue Fan</span>**.
 
 # 🏅 Honors and Awards
 - *2026.06*, Outstanding Doctoral Graduate Student, Shanxi University, in 2026.
+- *2026.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2026.
 - *2026.04*, Outstanding Graduate Student, Shanxi University, in 2026.
 - *2025.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2025.04*, Outstanding Graduate Student, Shanxi University, in 2025.
