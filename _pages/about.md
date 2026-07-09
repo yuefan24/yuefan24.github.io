@@ -42,7 +42,7 @@ Additionally, I participated in several explainable question answering competiti
 - *2020.12*: &nbsp;🎉🎉 Achieved third place in the CAIL2020 Reading Comprehension Challenge.
 
 # 🚀 Publications 
-- Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration. **_ACL 2026_**.  
+- [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://aclanthology.org/2026.acl-long.924/). **_ACL 2026_**.  
 **<span style="color:red;">Yue Fan</span>**, Hu zhang, Yunxiao Zhao, Hao Zhan, Guangjun Zhang, Ru Li, Hongye Tan, Yuanlong Wang.
   
 - [SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering](https://www.sciencedirect.com/science/article/pii/S0306457326000452). **_Information Processing and Management_, 2026**.  
@@ -54,7 +54,7 @@ Additionally, I participated in several explainable question answering competiti
 - [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering](https://2024.aclweb.org/program/finding_papers/). **_ACL 2024_**.  
 **<span style="color:red;">Yue Fan</span>**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 
-- Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency. **_ACL 2026_**.    
+- [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://aclanthology.org/2026.acl-long.871/). **_ACL 2026_**.    
 Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, **<span style="color:red;">Yue Fan</span>**, Shike Li, Ru Li, Hongye Tan
 
 - [Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/40767). **_AAAI 2026_**.  
@@ -74,6 +74,7 @@ Hu Zhang, Jingjing Zhou, Ru Li, **<span style="color:red;">Yue Fan</span>**.
 
 
 # 🏅 Honors and Awards
+- *2026.06*, Outstanding Doctoral Graduate Student, Shanxi University, in 2026.
 - *2026.04*, Outstanding Graduate Student, Shanxi University, in 2026.
 - *2025.06*, The First Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2025.04*, Outstanding Graduate Student, Shanxi University, in 2025.
